@@ -1,3 +1,5 @@
+{% extends "master.html" %}
+{% block tittle}
 <h2>Crear Número Telefónico para {{estudiante}}</h3>
 
 <form action="" method="post">
@@ -7,3 +9,6 @@
 </form>
 
 [<a href="{% url 'index' %}">inicio</a>]
+
+{% endblock %}
+
