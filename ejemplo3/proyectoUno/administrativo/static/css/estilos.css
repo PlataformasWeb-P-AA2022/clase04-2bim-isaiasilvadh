@@ -6,6 +6,9 @@ body {
   padding: 10px;
 
 }
+section{
+  background:#F4AB14 ;
+}
 
 header {
   background: #034275;
@@ -71,6 +74,6 @@ label {
 }
 
 footer{
-  background: #5E5E5E;
+  background: #034275;
   color: #FFF;
 }
